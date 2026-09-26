@@ -1,0 +1,6 @@
+{
+  "name": "快打小超人 - 儿童趣味盲打指法训练营",
+  "description": "专为儿童设计的十指盲打练习应用，告别二指禅！拥有标准手势键位指引、太空掉落字母战、赛车竞速PK等多模式，速度可调，寓教于乐。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
